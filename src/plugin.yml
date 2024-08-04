@@ -1,0 +1,5 @@
+name: EntityRepair
+main: com.owen2k6.entityrepair.EntityRepair
+version: 1.0
+author: Owen2k6
+description: Reloads entities as they remain invisible when unloaded clientside.
